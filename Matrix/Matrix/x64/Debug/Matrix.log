@@ -1,0 +1,4 @@
+﻿  Matrix.cpp
+C:\Users\Jekson\parallel_and_race_parallel_programming\Matrix\Matrix\Matrix.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Jekson\parallel_and_race_parallel_programming\Matrix\Matrix\Matrix.cpp(16): warning C4101: i: неиспользованная локальная переменная
+  Matrix.vcxproj -> C:\Users\Jekson\parallel_and_race_parallel_programming\Matrix\x64\Debug\Matrix.exe
